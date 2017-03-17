@@ -1,0 +1,12 @@
+body {
+	background-image: url("../images/bgtile.png");
+	background-repeat: repeat-x;
+}
+
+.phones {
+	float: left;
+}
+
+.frame {
+	float: right;
+}
