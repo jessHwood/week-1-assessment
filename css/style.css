@@ -42,11 +42,13 @@ h2 {
 }
 
 button {
-	background: #3A6890;
+	background: #4B74A1;
 	color: #DADBDF;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 700;
 	font-size: 14px;
+	border: solid .75px #345170;
+	box-shadow: 10px 10px 5px #345170;
 
 }
 
@@ -92,6 +94,8 @@ footer {
 	margin: auto;
 	width: 100%;
 	padding: 15px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 700;
 }
 
 ul {
