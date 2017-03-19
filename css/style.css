@@ -55,7 +55,10 @@ button {
 	font-size: 14px;
 	border: solid .75px #345170;	
 	box-shadow: 10px 10px 5px #345170;
-
+	margin-left: 80px;
+	height: 40px;
+	width: 100px;
+	line-height: 30px;
 }
 
 /*contains the insta blurb and app pics*/
