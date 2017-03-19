@@ -30,15 +30,21 @@ body {
 	float: left;
 }
 
+/*styles home img all others should be overrode by class*/
+img {
+	margin-top: 5px;
+}
+
 #loginbutton {
-	margin-left: 20px;
-	float: right;
+	padding: 0px 0px 0px 40px;
+	margin-bottom: 10px;
 }
 
 h2 {
 	color: #335C7F;
 	font-size: 30px;
 	font-weight: 700px;
+	width: 80%;
 }
 
 button {
@@ -47,7 +53,7 @@ button {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 700;
 	font-size: 14px;
-	border: solid .75px #345170;
+	border: solid .75px #345170;	
 	box-shadow: 10px 10px 5px #345170;
 
 }
@@ -69,6 +75,8 @@ button {
 	margin-top: 20px;
 	font-weight: 400;
 	font-size: 14px;
+	text-align: left;
+	width: 75%
 }
 
 #badges {
