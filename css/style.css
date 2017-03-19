@@ -30,11 +30,24 @@ body {
 	float: left;
 }
 
+#loginbutton {
+	margin-left: 20px;
+	float: right;
+}
+
 h2 {
 	color: #335C7F;
-	font-size: 28px;
+	font-size: 30px;
 	font-weight: 700px;
-	padding: 10px;
+}
+
+button {
+	background: #3A6890;
+	color: #DADBDF;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+
 }
 
 /*contains the insta blurb and app pics*/
@@ -52,12 +65,12 @@ h2 {
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-top: 20px;
+	font-weight: 400;
+	font-size: 14px;
 }
 
-.badges {
-	clear: both;
-	position: relative;
-	margin-top: 20px;
+#badges {
+	margin-top: 50px;
 }
 
 
